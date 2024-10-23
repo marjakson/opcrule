@@ -2,13 +2,16 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,kitsensegroup.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,kitsensegroup
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,198.18.0.236/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
