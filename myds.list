@@ -6,23 +6,6 @@ DOMAIN-KEYWORD,mypie
 DOMAIN-SUFFIX,*.stream-link.org
 DOMAIN-SUFFIX,*.mypie.fr
 
-DOMAIN-SUFFIX,livednow.com,Proxy
-DOMAIN-SUFFIX,livednow.org,Proxy
-DOMAIN-SUFFIX,thetvapp.to,Proxy
-DOMAIN-SUFFIX,wx.sb,Proxy
-DOMAIN-SUFFIX,orz-7.com,Proxy
-## 4GTV & Hamivideo
-DOMAIN-SUFFIX,4gtv.tv,Proxy
-DOMAIN-SUFFIX,hinet.net,Proxy
-DOMAIN-SUFFIX,ofiii.com,Proxy
-## YouTube
-DOMAIN-SUFFIX,googlevideo.com,Proxy
-DOMAIN-SUFFIX,youtube.com,Proxy
-## MytvSuper
-DOMAIN-SUFFIX,mytvsuper.com,Proxy
-DOMAIN-SUFFIX,tvb.com,Proxy
-
-
 
 # IP段匹配
 IP-CIDR,198.18.8.136/32,no-resolve
