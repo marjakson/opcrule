@@ -5,6 +5,15 @@ DOMAIN-KEYWORD,mypie
 # 域名后缀匹配
 DOMAIN-SUFFIX,*.stream-link.org
 DOMAIN-SUFFIX,*.mypie.fr
+DOMAIN-SUFFIX,livednow.com,Proxy
+DOMAIN-SUFFIX,orz-7.com,Proxy
+DOMAIN-SUFFIX,4gtv.tv,Proxy
+DOMAIN-SUFFIX,hinet.net,Proxy
+DOMAIN-SUFFIX,ofiii.com,Proxy
+DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,youtube.com,Proxy
+DOMAIN-SUFFIX,mytvsuper.com,Proxy
+DOMAIN-SUFFIX,thetvapp.to,Proxy
 # IP段匹配
 IP-CIDR,198.18.8.136/32,no-resolve
 IP-CIDR,198.18.0.230/32,no-resolve
