@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,gitv.tv,DIRECT
 DOMAIN-SUFFIX,cctv.cn,DIRECT
 DOMAIN-SUFFIX,yangshipin.cn,DIRECT
 DOMAIN-SUFFIX,gcable.cn,DIRECT
-DOMAIN-SUFFIX,beesport.livednow.com,DIRECT
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
