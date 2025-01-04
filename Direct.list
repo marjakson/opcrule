@@ -5,13 +5,25 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,dnsany.com,DIRECT
+DOMAIN-SUFFIX,cmvideo.cn,DIRECT
+DOMAIN-SUFFIX,chinamobile.com,DIRECT
+DOMAIN-SUFFIX,mobaibox.com,DIRECT
+DOMAIN-SUFFIX,gitv.tv,DIRECT
+DOMAIN-SUFFIX,cctv.cn,DIRECT
+DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+DOMAIN-SUFFIX,gcable.cn,DIRECT
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-
+IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
+IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
+IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
+IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
