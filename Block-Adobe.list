@@ -6,10 +6,17 @@ DOMAIN-SUFFIX,lm.licenses.adobe.com
 DOMAIN-SUFFIX,hlrcv.stage.adobe.com
 DOMAIN-SUFFIX,activate.adobe.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,cctypepkit.adobe.io
+DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,ic.adobe.io
+DOMAIN-SUFFIX,lcs-robs.adobe.io
+DOMAIN-SUFFIX,pojvrjr7ho5.adobe.io
+DOMAIN-SUFFIX,m59b4msyp9.adobe.io
+DOMAIN-SUFFIX,7g2gzkgh91.adobe.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
-DOMAIN-KEYWORD,adobe.io
 
 
 # IP段匹配
