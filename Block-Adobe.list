@@ -14,6 +14,21 @@ DOMAIN-SUFFIX,lcs-robs.adobe.io
 DOMAIN-SUFFIX,pojvrjr7ho5.adobe.io
 DOMAIN-SUFFIX,m59b4msyp9.adobe.io
 DOMAIN-SUFFIX,7g2gzkgh91.adobe.io
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,practivate.adobe.com
+DOMAIN-SUFFIX,ereg.adobe.com
+DOMAIN-SUFFIX,activate.wip3.adobe.com
+DOMAIN-SUFFIX,wip3.adobe.com
+DOMAIN-SUFFIX,3dns-3.adobe.com
+DOMAIN-SUFFIX,3dns-2.adobe.com
+DOMAIN-SUFFIX,adobe-dns.adobe.com
+DOMAIN-SUFFIX,adobe-dns-2.adobe.com
+DOMAIN-SUFFIX,adobe-dns-3.adobe.com
+DOMAIN-SUFFIX,ereg.wip3.adobe.com
+DOMAIN-SUFFIX,activate-sea.adobe.com
+DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+DOMAIN-SUFFIX,activate-sjc0.adobe.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,adobe
