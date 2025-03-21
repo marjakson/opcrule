@@ -1,0 +1,15 @@
+# 阻止Aodbe软件访问网络
+# MyList
+# 域名后缀匹配
+
+DOMAIN-SUFFIX,lm.licenses.adobe.com
+DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,adobe.io
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,adobe.io
+
+
+# IP段匹配
