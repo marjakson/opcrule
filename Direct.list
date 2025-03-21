@@ -14,14 +14,12 @@ DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,gcable.cn
-DOMAIN-SUFFIX,lm.licenses.adobe.com
-DOMAIN-SUFFIX,hlrcv.stage.adobe.com
-DOMAIN-SUFFIX,activate.adobe.com
+
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,adobe
+
 
 
 # IP段匹配
