@@ -2,6 +2,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,stream-link
 DOMAIN-KEYWORD,mypie
+DOMAIN-KEYWORD,startersites
 # 域名后缀匹配
 DOMAIN-SUFFIX,*.stream-link.org
 DOMAIN-SUFFIX,*.mypie.fr
@@ -15,7 +16,7 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
-
+DOMAIN-SUFFIX,startersites.io
 # IP段匹配
 IP-CIDR,198.18.8.136/32,no-resolve
 IP-CIDR,198.18.0.230/32,no-resolve
