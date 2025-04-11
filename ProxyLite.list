@@ -2,7 +2,6 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,kitsensegroup.com
 DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
@@ -14,10 +13,11 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,themesinfo.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,kitsensegroup
+DOMAIN-KEYWORD,themesinfo
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
